@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjn7jsc3e1uua"]
+
+[ext_resource type="Texture2D" uid="uid://luwtg0lgylmb" path="res://dodge_the_creeps_2d_assets/art/enemyFlyingAlt_1.png" id="1_nmwkj"]
+
+[node name="MOB" type="RigidBody2D"]
+position = Vector2(3, -55)
+
+[node name="EnemyFlyingAlt1" type="Sprite2D" parent="."]
+position = Vector2(-16, -4)
+texture = ExtResource("1_nmwkj")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+metadata/_edit_lock_ = true

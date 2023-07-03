@@ -1,0 +1,28 @@
+2a60927148abd1d33b818b535e306557
+::res://::1688422680
+Enemy.gd::GDScript::-1::1688070154::0::1::::<>CharacterBody2D<>::
+mob.tscn::PackedScene::5433337836633435912::1687880374::0::1::::<><>::uid://luwtg0lgylmb
+Player.gd::GDScript::-1::1687807077::0::1::::<>Area2D<>::
+player.tscn::PackedScene::6708539227865559172::1687807077::0::1::::<><>::res://Player.gd<>uid://cg5buooqojaq6<>uid://8576ui3m0u2<>uid://cpv1a3700v0ql<>uid://ckqu8efcgsw1w
+::res://dodge_the_creeps_2d_assets/::1688421265
+icon.svg::CompressedTexture2D::3952801752848766419::1687799993::1688421265::1::::<><>::
+README.md::TextFile::-1::1687801797::0::1::::<><>::
+::res://dodge_the_creeps_2d_assets/art/::1688421265
+enemyFlyingAlt_1.png::CompressedTexture2D::814734893293582341::1687801797::1688421265::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::2676351396323741797::1687801797::1688421265::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::2110054516121246938::1687801797::1688421265::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::74491164871768409::1687801797::1688421265::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::1397518742932186101::1687801797::1688421265::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::83919545771249461::1687801797::1688421265::1::::<><>::
+gameover.wav::AudioStreamWAV::2692810230065103508::1687801797::1688421265::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::2497231347098402129::1687801797::1688421265::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::5509033336802718546::1687801797::1688421265::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::5870606117861565415::1687801797::1688421265::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::5256002952407247719::1687802776::1688421265::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::70004780593268039::1687801797::1688421265::1::::<><>::
+::res://dodge_the_creeps_2d_assets/fonts/::1688421265
+FONTLOG.txt::TextFile::-1::1687801797::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1687801797::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::7892262008511853631::1687801797::1688421265::1::::<><>::
+::res://dodge_the_creeps_2d_assets/Godot Game #2 3D/::1688420589
+Player.gd::GDScript::-1::1687878999::0::1::::<>Area2D<>::
